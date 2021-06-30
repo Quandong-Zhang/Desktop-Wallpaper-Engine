@@ -23,6 +23,6 @@ while success :
   i = i + 1
   if (i % timeF == 0):
     j = j + 1
-    save_image(frame,'./spf/image',j)
+    save_image(frame,'./pic/image',j)
     print('保存第:',i)
   success, frame = videoCapture.read()
