@@ -1,5 +1,5 @@
 # Desktop-Wallpaper-Engine
-<h1>黑历史了属于是，这个实现方式....就像拿高压锅炒菜....一言难尽
+<h1>黑历史了属于是，这个实现方式....就像拿高压锅炒菜....一言难尽.
   正常的实现方式参见https://github.com/Quandong-Zhang/desktop-wallpaper-engine-new</h1>
 <s> 一个基于Python的桌面壁纸引擎，可以让您的电脑支持视频作为桌面壁纸。<br>
 <h2>使用方法：</h2>
